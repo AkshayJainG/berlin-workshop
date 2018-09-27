@@ -49,9 +49,14 @@ As we design and develop this website, we should note the following.
 * [Public audit list](https://docs.google.com/spreadsheets/d/1UDni6Dy_xE7MD5pcTptk7mGlgyarueLQYHZisofz4AM/edit?usp=sharing)
 * [Report on auditors from SolidStamp](https://www.solidstamp.com/blog/solidstamp-smart-contract-auditor-report-july-2018)
 * [Raw data on the above report](https://docs.google.com/spreadsheets/u/4/d/e/2PACX-1vTn_LUFpamtKNnFOqzA-2LfNPKqivw73VS4o7arnTUFShCuPZ0pr8j-QIqP9JkwD67t6_icDWXvn3rs/pubhtml)
-* [Consensys dev tools list](https://github.com/ConsenSys/ethereum-developer-tools-list)
-* [Consensys Preparing for a Smart Contract Audit](https://media.consensys.net/preparing-for-a-smart-contract-code-audit-83691200cb9c)
 * [Web 3 Foundation web3 tech stack](https://github.com/w3f/Web3-wiki/wiki)
+* [ConsenSys Smart Contract Security Best Practices](https://consensys.github.io/smart-contract-best-practices/)
+* [Mythril Security Analysis Platform](https://mythril.ai)
+* [Mythril OSS Security Tool](https://www.github./com/ConsenSys/mythril)
+* [Surya: A Set of utilities for exploring Solidity contracts](https://github.com/ConsenSys/surya)
+* [Smart Contract Security Weakness Classification (SWC](https://smartcontractsecurity.github.io/SWC-registry/)
+* [Analyzing Ethereum Smart Contracts for Vulnerabilities](https://hackernoon.com/scanning-ethereum-smart-contracts-for-vulnerabilities-b5caefd995df)
+* [Preparing for a Smart Contract Audit](https://media.consensys.net/preparing-for-a-smart-contract-code-audit-83691200cb9c)
 * [Trail of Bits "Awesome Ethereum Security" resources](https://github.com/trailofbits/awesome-ethereum-security)
   * [Manticore: Symbolic execution tool for EVM and x86](https://github.com/trailofbits/manticore)
   * [How to Prepare for a security review](https://blog.trailofbits.com/2018/04/06/how-to-prepare-for-a-security-audit/)
@@ -66,10 +71,8 @@ As we design and develop this website, we should note the following.
   * [Not So Smart Contracts: Examples of Solidity security issues](https://github.com/trailofbits/not-so-smart-contracts)
 * [Piper's dev tactical manual for python projects](https://github.com/pipermerriam/ethereum-dev-tactical-manual)
 * [Go ethereum dev guide](https://github.com/ethereum/go-ethereum/wiki/Developers'-Guide)
-* [Ethereum Vulnerability Analyzer Benchmark Reports](https://ethereumanalysisbenchmarks.github.io/
-)
+
  ## Tooling
- * [Mythril](https://github.com/ConsenSys/mythril)
  * [Oyente](https://github.com/melonproject/oyente)
 
  ## Presentations
